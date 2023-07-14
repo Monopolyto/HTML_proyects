@@ -1,0 +1,17 @@
+-------------------------------------------
+// Juego.zip cuenta con el codigo utilizado
+// para la creacion de personajes visual a
+// traves del motor Unity subido a la plataforma
+// itch.io, estando en formato WebGL
+-------------------------------------------
+// Todos los sprites son de creacion propia
+.
+.
+.
+*Este archivo en un futuro puede sufrir cambios*
+.
+.
+.
+.
+Toda actualizacion sera registrada en
+este mismo repositorio
