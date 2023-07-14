@@ -1,0 +1,40 @@
+---------------------------------
+Para ejecutar correctamente la pagina
+basta con descargar el rar adjuntado
+y descomprimirlo...
+.
+(uxu) <{No olvides contar con rar)
+.
+Realizado esto solo se ejecuta el archivo:
+
+---
+pagina.html
+---
+
+Y listo!, sus opciones pueden utilizarse
+al instante.
+.
+.
+.
+.
+.
+.
+---------------------------------
+
+!!Atencion!!ATENCION!!Atencion!!
+
+---------------------------------
+Es normal que la opcion de 
+-------
+"Diseño personaje"
+--------
+se demore un tiempo en cargar o directamente
+se coloque en negro, de suceder esto es recomendable
+refrescar la pagina cada un tiempo.
+Simplemente el archivo resulto algo pesado.
+
+(OwQ) <{Se comio mi RAM)
+
+------------------------------------
+Esta pagina es de uso libre (Por obvias razones)
+por lo que cualquiera puede usarlo de necesitarlo
